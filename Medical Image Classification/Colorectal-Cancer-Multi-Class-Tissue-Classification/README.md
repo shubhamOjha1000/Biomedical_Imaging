@@ -4,14 +4,9 @@ Deep neural network to identify nine different tissue types that are abundant in
 
 
 # Multi Tissue classification from Microscopic-Tissue Images with Deep Learning (Transfer Learning)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-```
-Domain 		: Computer Vision, Machine Learning
-Sub-Domain	: Deep Learning, Image Recognition
-Techniques	: Deep Convolutional Neural Network (CNN), Transfer Learning, ImageNet, MobileNet, VGG19, ResNet50 
-Application	: Image Classification, Medical Imaging, Medical Imaging
-```
+
+
 
 
 ## Description
@@ -24,7 +19,6 @@ Dataset Name     : NCT-CRC-HE-100K, CRC-VAL-HE-7K
 ## Dataset Details
 Dataset Links: [NCT-CRC-HE-100K](https://zenodo.org/record/1214456), [CRC-VAL-HE-7K](https://zenodo.org/record/1214456)
 
-Original Paper      :  [Kather JN, Krisam J, Charoentong P, Luedde T, Herpel E, Weis C-A, et al. (2019) Predicting survival from colorectal cancer histology slides using deep learning: A retrospective multicenter study. PLoS Med 16(1): e1002730.](https://doi.org/10.1371/journal.pmed.1002730)
                    
 Dataset Name: NCT-CRC-HE-100K, CRC-VAL-HE-7K
 Number of Classes		    : 9
