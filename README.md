@@ -5,3 +5,8 @@
 - This repo will be updated once every month.
 
 ## Papers List
+
+- ### Biomedical image classification :- 
+
+
+- ### Biomedical image segmentation :-
