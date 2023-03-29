@@ -1,1 +1,1 @@
-# Biomedical_Imaging
+# Biomedical Imaging
