@@ -7,7 +7,7 @@
 ## Papers List
 
 - ### Biomedical image classification :- 
-  - #### 1.  Implementation of U-Net, R2U-Net, Attention U-Net, Attention R2U-Net on  ISIC 2018 dataset. [**Link to the repo**](https://github.com/shubhamOjha1000/Biomedical_Imaging/tree/main/Medical%20Image%20Segmentation/U-Net) 
+  - #### 1.  Implementation of U-Net, R2U-Net, Attention U-Net, Attention R2U-Net on  ISIC 2018 dataset. [**Link**](https://github.com/shubhamOjha1000/Biomedical_Imaging/tree/main/Medical%20Image%20Segmentation/U-Net) 
 
 
 - ### Biomedical image segmentation :-
