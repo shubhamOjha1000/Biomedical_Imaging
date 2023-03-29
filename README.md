@@ -11,3 +11,4 @@
 
 
 - ### Biomedical image segmentation :-
+  -  #### 1. Colorectal-Cancer-Multi-Class-Tissue-Classification using VGG19, MobileNet, ResNet50. [**Link**](https://github.com/shubhamOjha1000/Biomedical_Imaging/tree/main/Medical%20Image%20Classification/Colorectal-Cancer-Multi-Class-Tissue-Classification)
